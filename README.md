@@ -1,1 +1,4 @@
-# python-ddos
+# python语言版本DDOS工具
+
+# 1.网络层攻击
+# 2.应用层攻击
